@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Shravan S Chowta</h1>
 <h3 align="center">A passionate mern stack learner.</h3>
 
